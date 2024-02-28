@@ -54,11 +54,9 @@ Each major Go release is supported until there are two newer major releases. For
 
 ## C#
 
-C# .NET6 and .NET7
+For C#  libraries we support netstandard2.1
 
-Latest LTS and STS(Standard Term Support) minus 1 release supported
-
-The release information and the latest version of C# available here https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
+The .NET Standard information is available here [https://learn.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-2-1](https://learn.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-2-1)
 
 # Deprecation
 ## Libraries

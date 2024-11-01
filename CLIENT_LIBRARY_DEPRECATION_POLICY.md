@@ -14,7 +14,7 @@ We will update to the latest minor release in the supported version to ensure th
 # Tools and Release Cadence
 ## Open API (Application Programming Interface) Generator
 
-OpenAPI Generator v6.x.x
+OpenAPI Generator v7.x.x
 
 We are supporting the latest release minus 1. Please note that the Open API generator is introducing breaking changes in major releases with no fallback.
 
@@ -24,7 +24,7 @@ The release information and the latest version of Open API Generator are availab
 
 ## Java
 
-We support Java 8 and above.
+We support Java 11 and above.
 
 The release information and the latest version of Java are available here: https://www.java.com/releases/
 

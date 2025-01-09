@@ -24,7 +24,7 @@ The release information and the latest version of Open API Generator are availab
 
 ## Java
 
-We support Java 11 and above.
+We support Java 17 and above.
 
 The release information and the latest version of Java are available here: https://www.java.com/releases/
 
